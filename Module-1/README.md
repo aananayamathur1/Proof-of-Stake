@@ -72,7 +72,7 @@ node batchTransfer.js
 
 ## Author 
 
-Aditi Pandey
+AAananaya Mathur
 
 ## License
 
